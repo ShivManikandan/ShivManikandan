@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Algorithms/001. Two Sum"/>
+	<classpathentry kind="src" path="Algorithms/002. Add Two Numbers"/>
+	<classpathentry kind="src" path="Algorithms/003. Longest Substring Without Repeating Characters"/>
+	<classpathentry kind="src" path="Algorithms/006. ZigZag Conversion"/>
+	<classpathentry kind="src" path="Algorithms/007. Reverse Integer"/>
+	<classpathentry kind="src" path="Algorithms/008. String to Integer (atoi)"/>
+	<classpathentry kind="src" path="Algorithms/009. Palindrome Number"/>
+	<classpathentry kind="src" path="Algorithms/010. Regular Expression Matching"/>
+	<classpathentry kind="src" path="Algorithms/011. Container With Most Water"/>
+	<classpathentry kind="src" path="Algorithms/012. Integer to Roman"/>
+	<classpathentry kind="src" path="Algorithms/013. Roman to Integer"/>
+	<classpathentry kind="src" path="Algorithms/014. Longest Common Prefix"/>
+	<classpathentry kind="src" path="Algorithms/015. 3Sum"/>
+	<classpathentry kind="src" path="Algorithms/016. 3Sum Closest"/>
+	<classpathentry kind="src" path="Algorithms/017. Letter Combinations of a Phone Number"/>
+	<classpathentry kind="src" path="Algorithms/018. 4Sum"/>
+	<classpathentry kind="src" path="Algorithms/019. Remove Nth Node From End of List"/>
+	<classpathentry kind="src" path="Algorithms/020. Valid Parentheses"/>
+	<classpathentry kind="src" path="Algorithms/021. Merge Two Sorted Lists"/>
+	<classpathentry kind="src" path="Algorithms/022. Generate Parentheses"/>
+	<classpathentry kind="src" path="Algorithms/023. Merge k Sorted Lists"/>
+	<classpathentry kind="src" path="Algorithms/024. Swap Nodes in Pairs"/>
+	<classpathentry kind="src" path="Algorithms/025. Reverse Nodes in k-Group"/>
+	<classpathentry kind="src" path="Algorithms/026. Remove Duplicates from Sorted Array"/>
+	<classpathentry kind="src" path="Algorithms/027. Remove Element"/>
+	<classpathentry kind="src" path="Algorithms/028. Implement strStr()"/>
+	<classpathentry kind="src" path="Algorithms/029. Divide Two Integers"/>
+	<classpathentry kind="src" path="Algorithms/031. Next Permutation"/>
+	<classpathentry kind="src" path="Algorithms/032. Longest Valid Parentheses"/>
+	<classpathentry kind="src" path="Algorithms/033. Search in Rotated Sorted Array"/>
+	<classpathentry kind="src" path="Algorithms/034. Search for a Range"/>
+	<classpathentry kind="src" path="Algorithms/035. Search Insert Position"/>
+	<classpathentry kind="src" path="Algorithms/036. Valid Sudoku"/>
+	<classpathentry kind="src" path="Algorithms/037. Sudoku Solver"/>
+	<classpathentry kind="src" path="Algorithms/038. Count and Say"/>
+	<classpathentry kind="src" path="Algorithms/039. Combination Sum"/>
+	<classpathentry kind="src" path="Algorithms/040. Combination Sum II"/>
+	<classpathentry kind="src" path="Algorithms/041. First Missing Positive"/>
+	<classpathentry kind="src" path="Algorithms/042. Trapping Rain Water"/>
+	<classpathentry kind="src" path="Algorithms/043. Multiply Strings"/>
+	<classpathentry kind="src" path="Algorithms/045. Jump Game II"/>
+	<classpathentry kind="src" path="Algorithms/046. Permutations"/>
+	<classpathentry kind="src" path="Algorithms/047. Permutations II"/>
+	<classpathentry kind="src" path="Algorithms/048. Rotate Image"/>
+	<classpathentry kind="src" path="Algorithms/049. Group Anagrams"/>
+	<classpathentry kind="src" path="Algorithms/050. Pow(x, n)"/>
+	<classpathentry kind="src" path="Algorithms/051. N-Queens"/>
+	<classpathentry kind="src" path="Algorithms/052. N-Queens II"/>
+	<classpathentry kind="src" path="Algorithms/053. Maximum Subarray"/>
+	<classpathentry kind="src" path="Algorithms/054. Spiral Matrix"/>
+	<classpathentry kind="src" path="Algorithms/055. Jump Game"/>
+	<classpathentry kind="src" path="Algorithms/056. Merge Intervals"/>
+	<classpathentry kind="src" path="Algorithms/057. Insert Interval"/>
+	<classpathentry kind="src" path="Algorithms/058. Length of Last Word"/>
+	<classpathentry kind="src" path="Algorithms/059. Spiral Matrix II"/>
+	<classpathentry kind="src" path="Algorithms/060. Permutation Sequence"/>
+	<classpathentry kind="src" path="Algorithms/061. Rotate List"/>
+	<classpathentry kind="src" path="Algorithms/062. Unique Paths"/>
+	<classpathentry kind="src" path="Algorithms/063. Unique Paths II"/>
+	<classpathentry kind="src" path="Algorithms/064. Minimum Path Sum"/>
+	<classpathentry kind="src" path="Algorithms/066. Plus One"/>
+	<classpathentry kind="src" path="Algorithms/067. Add Binary"/>
+	<classpathentry kind="src" path="Algorithms/068. Text Justification"/>
+	<classpathentry kind="src" path="Algorithms/069. Sqrt(x)"/>
+	<classpathentry kind="src" path="Algorithms/070. Climbing Stairs"/>
+	<classpathentry kind="src" path="Algorithms/072. Edit Distance"/>
+	<classpathentry kind="src" path="Algorithms/073. Set Matrix Zeroes"/>
+	<classpathentry kind="src" path="Algorithms/074. Search a 2D Matrix"/>
+	<classpathentry kind="src" path="Algorithms/075. Sort Colors"/>
+	<classpathentry kind="src" path="Algorithms/077. Combinations"/>
+	<classpathentry kind="src" path="Algorithms/078. Subsets"/>
+	<classpathentry kind="src" path="Algorithms/079. Word Search"/>
+	<classpathentry kind="src" path="Algorithms/080. Remove Duplicates from Sorted Array II"/>
+	<classpathentry kind="src" path="Algorithms/081. Search in Rotated Sorted Array II"/>
+	<classpathentry kind="src" path="Algorithms/082. Remove Duplicates from Sorted List II"/>
+	<classpathentry kind="src" path="Algorithms/083. Remove Duplicates from Sorted List"/>
+	<classpathentry kind="src" path="Algorithms/086. Partition List"/>
+	<classpathentry kind="src" path="Algorithms/087. Scramble String"/>
+	<classpathentry kind="src" path="Algorithms/088. Merge Sorted Array"/>
+	<classpathentry kind="src" path="Algorithms/089. Gray Code"/>
+	<classpathentry kind="src" path="Algorithms/090. Subsets II"/>
+	<classpathentry kind="src" path="Algorithms/091. Decode Ways"/>
+	<classpathentry kind="src" path="Algorithms/092. Reverse Linked List II"/>
+	<classpathentry kind="src" path="Algorithms/093. Restore IP Addresses"/>
+	<classpathentry kind="src" path="Algorithms/094. Binary Tree Inorder Traversal"/>
+	<classpathentry kind="src" path="Algorithms/095. Unique Binary Search Trees II"/>
+	<classpathentry kind="src" path="Algorithms/096. Unique Binary Search Trees"/>
+	<classpathentry kind="src" path="Algorithms/097. Interleaving String"/>
+	<classpathentry kind="src" path="Algorithms/098. Validate Binary Search Tree"/>
+	<classpathentry kind="src" path="Algorithms/100. Same Tree"/>
+	<classpathentry kind="src" path="leetcode-main/Algorithms/001. Two Sum"/>
+	<classpathentry kind="src" path="leetcode-main/Algorithms/002. Add Two Numbers"/>
+	<classpathentry kind="src" path="leetcode-main/Algorithms/003. Longest Substring Without Repeating Characters"/>
+	<classpathentry kind="src" path="leetcode-main/Algorithms/006. ZigZag Conversion"/>
+	<classpathentry kind="src" path="leetcode-main/Algorithms/007. Reverse Integer"/>
+	<classpathentry kind="src" path="leetcode-main/Algorithms/008. String to Integer (atoi)"/>
+	<classpathentry kind="src" path="leetcode-main/Algorithms/009. Palindrome Number"/>
+	<classpathentry kind="src" path="leetcode-main/Algorithms/010. Regular Expression Matching"/>
+	<classpathentry kind="src" path="leetcode-main/Algorithms/011. Container With Most Water"/>
+	<classpathentry kind="src" path="leetcode-main/Algorithms/012. Integer to Roman"/>
+	<classpathentry kind="src" path="leetcode-main/Algorithms/013. Roman to Integer"/>
+	<classpathentry kind="src" path="leetcode-main/Algorithms/014. Longest Common Prefix"/>
+	<classpathentry kind="src" path="leetcode-main/Algorithms/015. 3Sum"/>
+	<classpathentry kind="src" path="leetcode-main/Algorithms/016. 3Sum Closest"/>
+	<classpathentry kind="src" path="leetcode-main/Algorithms/017. Letter Combinations of a Phone Number"/>
+	<classpathentry kind="src" path="leetcode-main/Algorithms/018. 4Sum"/>
+	<classpathentry kind="src" path="leetcode-main/Algorithms/019. Remove Nth Node From End of List"/>
+	<classpathentry kind="src" path="leetcode-main/Algorithms/020. Valid Parentheses"/>
+	<classpathentry kind="src" path="leetcode-main/Algorithms/021. Merge Two Sorted Lists"/>
+	<classpathentry kind="src" path="leetcode-main/Algorithms/022. Generate Parentheses"/>
+	<classpathentry kind="src" path="leetcode-main/Algorithms/023. Merge k Sorted Lists"/>
+	<classpathentry kind="src" path="leetcode-main/Algorithms/024. Swap Nodes in Pairs"/>
+	<classpathentry kind="src" path="leetcode-main/Algorithms/025. Reverse Nodes in k-Group"/>
+	<classpathentry kind="src" path="leetcode-main/Algorithms/026. Remove Duplicates from Sorted Array"/>
+	<classpathentry kind="src" path="leetcode-main/Algorithms/027. Remove Element"/>
+	<classpathentry kind="src" path="leetcode-main/Algorithms/028. Implement strStr()"/>
+	<classpathentry kind="src" path="leetcode-main/Algorithms/029. Divide Two Integers"/>
+	<classpathentry kind="src" path="leetcode-main/Algorithms/031. Next Permutation"/>
+	<classpathentry kind="src" path="leetcode-main/Algorithms/032. Longest Valid Parentheses"/>
+	<classpathentry kind="src" path="leetcode-main/Algorithms/033. Search in Rotated Sorted Array"/>
+	<classpathentry kind="src" path="leetcode-main/Algorithms/034. Search for a Range"/>
+	<classpathentry kind="src" path="leetcode-main/Algorithms/035. Search Insert Position"/>
+	<classpathentry kind="src" path="leetcode-main/Algorithms/036. Valid Sudoku"/>
+	<classpathentry kind="src" path="leetcode-main/Algorithms/037. Sudoku Solver"/>
+	<classpathentry kind="src" path="leetcode-main/Algorithms/038. Count and Say"/>
+	<classpathentry kind="src" path="leetcode-main/Algorithms/039. Combination Sum"/>
+	<classpathentry kind="src" path="leetcode-main/Algorithms/040. Combination Sum II"/>
+	<classpathentry kind="src" path="leetcode-main/Algorithms/041. First Missing Positive"/>
+	<classpathentry kind="src" path="leetcode-main/Algorithms/042. Trapping Rain Water"/>
+	<classpathentry kind="src" path="leetcode-main/Algorithms/043. Multiply Strings"/>
+	<classpathentry kind="src" path="leetcode-main/Algorithms/045. Jump Game II"/>
+	<classpathentry kind="src" path="leetcode-main/Algorithms/046. Permutations"/>
+	<classpathentry kind="src" path="leetcode-main/Algorithms/047. Permutations II"/>
+	<classpathentry kind="src" path="leetcode-main/Algorithms/048. Rotate Image"/>
+	<classpathentry kind="src" path="leetcode-main/Algorithms/049. Group Anagrams"/>
+	<classpathentry kind="src" path="leetcode-main/Algorithms/050. Pow(x, n)"/>
+	<classpathentry kind="src" path="leetcode-main/Algorithms/051. N-Queens"/>
+	<classpathentry kind="src" path="leetcode-main/Algorithms/052. N-Queens II"/>
+	<classpathentry kind="src" path="leetcode-main/Algorithms/053. Maximum Subarray"/>
+	<classpathentry kind="src" path="leetcode-main/Algorithms/054. Spiral Matrix"/>
+	<classpathentry kind="src" path="leetcode-main/Algorithms/055. Jump Game"/>
+	<classpathentry kind="src" path="leetcode-main/Algorithms/056. Merge Intervals"/>
+	<classpathentry kind="src" path="leetcode-main/Algorithms/057. Insert Interval"/>
+	<classpathentry kind="src" path="leetcode-main/Algorithms/058. Length of Last Word"/>
+	<classpathentry kind="src" path="leetcode-main/Algorithms/059. Spiral Matrix II"/>
+	<classpathentry kind="src" path="leetcode-main/Algorithms/060. Permutation Sequence"/>
+	<classpathentry kind="src" path="leetcode-main/Algorithms/061. Rotate List"/>
+	<classpathentry kind="src" path="leetcode-main/Algorithms/062. Unique Paths"/>
+	<classpathentry kind="src" path="leetcode-main/Algorithms/063. Unique Paths II"/>
+	<classpathentry kind="src" path="leetcode-main/Algorithms/064. Minimum Path Sum"/>
+	<classpathentry kind="src" path="leetcode-main/Algorithms/066. Plus One"/>
+	<classpathentry kind="src" path="leetcode-main/Algorithms/067. Add Binary"/>
+	<classpathentry kind="src" path="leetcode-main/Algorithms/068. Text Justification"/>
+	<classpathentry kind="src" path="leetcode-main/Algorithms/069. Sqrt(x)"/>
+	<classpathentry kind="src" path="leetcode-main/Algorithms/070. Climbing Stairs"/>
+	<classpathentry kind="src" path="leetcode-main/Algorithms/072. Edit Distance"/>
+	<classpathentry kind="src" path="leetcode-main/Algorithms/073. Set Matrix Zeroes"/>
+	<classpathentry kind="src" path="leetcode-main/Algorithms/074. Search a 2D Matrix"/>
+	<classpathentry kind="src" path="leetcode-main/Algorithms/075. Sort Colors"/>
+	<classpathentry kind="src" path="leetcode-main/Algorithms/077. Combinations"/>
+	<classpathentry kind="src" path="leetcode-main/Algorithms/078. Subsets"/>
+	<classpathentry kind="src" path="leetcode-main/Algorithms/079. Word Search"/>
+	<classpathentry kind="src" path="leetcode-main/Algorithms/080. Remove Duplicates from Sorted Array II"/>
+	<classpathentry kind="src" path="leetcode-main/Algorithms/081. Search in Rotated Sorted Array II"/>
+	<classpathentry kind="src" path="leetcode-main/Algorithms/082. Remove Duplicates from Sorted List II"/>
+	<classpathentry kind="src" path="leetcode-main/Algorithms/083. Remove Duplicates from Sorted List"/>
+	<classpathentry kind="src" path="leetcode-main/Algorithms/086. Partition List"/>
+	<classpathentry kind="src" path="leetcode-main/Algorithms/087. Scramble String"/>
+	<classpathentry kind="src" path="leetcode-main/Algorithms/088. Merge Sorted Array"/>
+	<classpathentry kind="src" path="leetcode-main/Algorithms/089. Gray Code"/>
+	<classpathentry kind="src" path="leetcode-main/Algorithms/090. Subsets II"/>
+	<classpathentry kind="src" path="leetcode-main/Algorithms/091. Decode Ways"/>
+	<classpathentry kind="src" path="leetcode-main/Algorithms/092. Reverse Linked List II"/>
+	<classpathentry kind="src" path="leetcode-main/Algorithms/093. Restore IP Addresses"/>
+	<classpathentry kind="src" path="leetcode-main/Algorithms/094. Binary Tree Inorder Traversal"/>
+	<classpathentry kind="src" path="leetcode-main/Algorithms/095. Unique Binary Search Trees II"/>
+	<classpathentry kind="src" path="leetcode-main/Algorithms/096. Unique Binary Search Trees"/>
+	<classpathentry kind="src" path="leetcode-main/Algorithms/097. Interleaving String"/>
+	<classpathentry kind="src" path="leetcode-main/Algorithms/098. Validate Binary Search Tree"/>
+	<classpathentry kind="src" path="leetcode-main/Algorithms/100. Same Tree"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
